@@ -5,17 +5,11 @@ This project presents a novel method for color image encryption by integrating C
 
 ## Tools and technologies used:
 
-   C#
-   
-   visual studio code
-   
-   SQL server
-   
-   Ml.net
-   
-   SOAP
-   
-   XML
-   
-   IIS server
+    C#
+    visual studio code
+    SQL server
+    Ml.net
+    SOAP
+    XML
+    IIS server
    
