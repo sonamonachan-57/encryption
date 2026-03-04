@@ -23,7 +23,7 @@ This hybrid approach produces highly secure encrypted images that are resistant 
  
   Ensure secure transmission of images across networks
 
-## 🛠️Tools and technologies used:
+## 🛠️ Tools and technologies used:
 
     C#
     visual studio code
