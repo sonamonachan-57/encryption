@@ -13,15 +13,15 @@ This hybrid approach produces highly secure encrypted images that are resistant 
 
 ## 🎯 Objectives
 
-  Reduce image size using compressive sensing
+  🔹Reduce image size using compressive sensing
 
-  Encrypt images using DNA coding techniques
+  🔹Encrypt images using DNA coding techniques
 
-  Improve security using chaotic map randomness
+  🔹Improve security using chaotic map randomness
 
-  Protect image data from unauthorized access
+  🔹Protect image data from unauthorized access
  
-  Ensure secure transmission of images across networks
+  🔹Ensure secure transmission of images across networks
 
 ## 🛠️ Tools and technologies used:
 
@@ -66,11 +66,11 @@ Compressive Sensing is used to compress image data before encryption, reducing t
 
 Benefits:
 
-Lower storage requirements
+🔹Lower storage requirements
 
-Faster image transmission
+🔹Faster image transmission
 
-Reduced computational cost
+🔹Reduced computational cost
 
 2️⃣ DNA-Based Encryption
 
@@ -109,31 +109,31 @@ Improves resistance to statistical attacks
                
 ## Features:
 
-High-compression image encoding using Compressive Sensing
+🔹High-compression image encoding using Compressive Sensing
 
-Dynamic DNA-based encryption
+🔹Dynamic DNA-based encryption
 
-Secure chaotic map key generation
+🔹Secure chaotic map key generation
 
-Pixel scrambling using Josephus algorithm
+🔹Pixel scrambling using Josephus algorithm
 
-High resistance to cryptographic attacks
+🔹High resistance to cryptographic attacks
 
-Protection against statistical image analysis
+🔹Protection against statistical image analysis
 
 ##  📊 Security Advantages
 
 The proposed algorithm provides strong security through:
 
-  Large key space
+  🔹Large key space
 
-  High sensitivity to key changes
+  🔹High sensitivity to key changes
 
-  Resistance to brute-force attacks
+  🔹Resistance to brute-force attacks
 
-  Resistance to differential attacks
+  🔹Resistance to differential attacks
   
-  Low correlation between adjacent pixels
+  🔹Low correlation between adjacent pixels
 
 
  ## 🌍 Applications
